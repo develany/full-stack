@@ -1,0 +1,15 @@
+body {
+    font-size: 25px;
+    font-family: Georgia;
+    background-color: #a5ee8db0;
+    color: #330b8f;
+    padding: 25px;
+}
+table, th, td { 
+    border: solid 4px rgb(199, 7, 7);
+    border-collapse: collapse;
+    padding: 30px;
+    
+}
+.x {background-color: #330b8f
+    ;}
