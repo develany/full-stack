@@ -5,4 +5,4 @@ function perimetro(lado){
 }
 const lado = +prompt('digite o valor da aresta do quadrado')
 const retorno = perimetro(lado)
-alert (retorno)
+alert (`O perímetro desse quadrado é ${retorno}`)
