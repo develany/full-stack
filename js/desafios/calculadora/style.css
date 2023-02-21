@@ -1,0 +1,42 @@
+#corpo{
+    background-color: #ffb473c5;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 350px;
+    height: 450px;
+    border-radius: 10px;
+}
+div#resultado{
+    background-color: #fc953b;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    height: 50px;
+    font: bold 1.5em arial;
+}
+p{
+    text-align: end;
+    padding: 10px 15px;
+}
+#butoes{
+    
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+button{
+    background-color: #805a3993;
+    font: bolder 1.5em arial;
+    width: 60px;
+    height: 60px;
+    margin: 8px;
+    border-radius: 10px;
+}
+button:hover{
+    border: white 3px solid;
+    transition: 10ms;
+}
