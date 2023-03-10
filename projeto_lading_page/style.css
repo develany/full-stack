@@ -1,0 +1,48 @@
+h2, h5{
+    color: #002f5c;
+}
+h2{
+    display: inline;
+}
+.amarela{
+    display: inline;
+}
+#pt2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: center;
+ }
+#servicos{
+    max-width: 600px;
+    margin-left: 10px;
+}
+#bloco2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+.item{
+    max-width: 280px;
+    height: 220px;
+    
+}
+#bloco1>p{
+    margin-bottom: 50px;
+}
+.item>p{
+    height: 110px;
+}
+
+#img{
+    background-image: url(imagens/oii.jpg);
+    background-position: center center;
+    background-attachment: local;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 600px;
+    height: 630px;
+}
