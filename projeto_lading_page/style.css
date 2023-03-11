@@ -1,7 +1,7 @@
-h2, h5{
+#bloco1> h2, h5{
     color: #002f5c;
 }
-h2{
+#bloco1>h2{
     display: inline;
 }
 .amarela{
