@@ -28,3 +28,7 @@ const pii = 3
 //alert(Math.random()*10) // gera numero aleatorio entre 0 e 1 e vc pode ir mutiplicando por 10, 100 para ir aumentando a margem de numeros
  //alert(Number.parseInt(pi)) // transforma em inteiro
 //alert(Number.parseFloat(pii)) // transforma em float
+
+//forEach - 
+//map - Cria uma copia e modifica
+//filter - filtra 
